@@ -2674,6 +2674,10 @@ video {
     padding-left: 150px;
   }
 
+  .\32xl\:pl-\[220px\] {
+    padding-left: 220px;
+  }
+
   .\32xl\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
