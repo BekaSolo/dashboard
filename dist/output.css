@@ -2650,6 +2650,10 @@ video {
 }
 
 @media (min-width: 1536px) {
+  .\32xl\:ml-\[160px\] {
+    margin-left: 160px;
+  }
+
   .\32xl\:w-full {
     width: 100%;
   }
