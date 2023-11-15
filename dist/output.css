@@ -2662,8 +2662,16 @@ video {
     min-width: 400px;
   }
 
+  .\32xl\:max-w-\[1800px\] {
+    max-width: 1800px;
+  }
+
   .\32xl\:pl-4 {
     padding-left: 1rem;
+  }
+
+  .\32xl\:pl-\[150px\] {
+    padding-left: 150px;
   }
 
   .\32xl\:text-2xl {
